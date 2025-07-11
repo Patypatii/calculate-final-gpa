@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calculate-final-gpa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0931281743b9708f3d46dad54df46a8fe63c998")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b3452098796c7e911fb4ec2acee7dc775423395")]
 [assembly: System.Reflection.AssemblyProductAttribute("calculate-final-gpa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculate-final-gpa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
