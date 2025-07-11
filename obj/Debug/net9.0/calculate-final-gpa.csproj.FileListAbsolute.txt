@@ -1,0 +1,15 @@
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\bin\Debug\net9.0\calculate-final-gpa.exe
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\bin\Debug\net9.0\calculate-final-gpa.deps.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\bin\Debug\net9.0\calculate-final-gpa.runtimeconfig.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\bin\Debug\net9.0\calculate-final-gpa.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\bin\Debug\net9.0\calculate-final-gpa.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\obj\Debug\net9.0\calculate-final-gpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\obj\Debug\net9.0\calculate-final-gpa.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\obj\Debug\net9.0\calculate-final-gpa.AssemblyInfo.cs
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\obj\Debug\net9.0\calculate-final-gpa.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\obj\Debug\net9.0\calculate-final-gpa.sourcelink.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\obj\Debug\net9.0\calculate-final-gpa.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\obj\Debug\net9.0\refint\calculate-final-gpa.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\obj\Debug\net9.0\calculate-final-gpa.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\obj\Debug\net9.0\calculate-final-gpa.genruntimeconfig.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\calculate-final-gpa\obj\Debug\net9.0\ref\calculate-final-gpa.dll
